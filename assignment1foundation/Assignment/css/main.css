@@ -1,0 +1,71 @@
+/*Rani Rani 8880179*/
+body{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    border: 2px solid orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    color: green;
+    font-variant: small-caps;
+}
+h2{
+    color: orange;
+    font-variant: small-caps;
+}
+main{
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+}
+main{
+    float: left;
+}
+aside{
+    width: 10%;
+    float: right;
+    clear: right;
+}
+.mainimg img{
+    border: 2px solid black;
+    width: auto;
+}
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em;
+}
+ul li{
+    list-style: none;
+    line-height: 1.5;
+}
+ul > li > a {
+    text-decoration: none;
+    color: blue;
+}
+aside a:hover{
+    color: green;
+}
+footer{
+    clear: both;
+    color: black;
+    font-size: 14px;
+    background-color: aliceblue;
+    text-align: left;
+    padding: 5px;
+    border: 2px solid orange;
+    border-radius: 10px;
+}
+
